@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/willian-viana/poc-ci-jenkins/compare/v1.0.0...v1.1.0) (2021-05-10)
+
+
+### Features
+
+* **html:** rename root file ([47273b6](https://github.com/willian-viana/poc-ci-jenkins/commit/47273b6e76f899ed08544398cd8e5e51609f9cb1))
+
 ## 1.0.0 (2021-05-10)
 
 
